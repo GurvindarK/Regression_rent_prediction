@@ -12,6 +12,11 @@ Province
 >> 3: 'New Brunswick', 4: 'Newfoundland and Labrador',
 >> 6: 'Nova Scotia', 5: 'Northwest Territories',
 >> 7: 'Ontario', 8: 'Quebec', 9: 'Saskatchewan'¶
+>>
+>> Lease Term
+>>  0: 'Long Term', 1: 'Negotiable', 2: 'Short Term'
+>>
+>> Square feet, property with balcony, basement etc.
 
 {457: '1403', 537: '1496', 247: '1180', 409: '1351', 1022: '361 Sq. Ft.', 1203: '525 Sq. Ft.', 1542: '810 Sq. Ft.', 920: '265 Sq. Ft.', 
 1771: '997', 2: '0', 1651: '900', 604: '1600', 1294: '602', 1632: '886', 135: '1086', 330: '1265', 1368: '667', 1370: '669', 1382: '680',
